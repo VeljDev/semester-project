@@ -1,0 +1,608 @@
+{
+  "system_info": {
+    "os_name": "MockOS",
+    "os_version": "1.0.0"
+  },
+  "applications": [
+    {
+      "name": "Fusion Middleware",
+      "vendor": "Oracle",
+      "version": "11.1.1.1.0",
+      "install_path": "C:\\Program Files\\Oracle\\Fusion_Middleware"
+    },
+    {
+      "name": "Web Wiz Forums",
+      "vendor": "Webwiz",
+      "version": "9.07",
+      "install_path": "C:\\Program Files\\Webwiz\\Web_Wiz_Forums"
+    },
+    {
+      "name": "Owl Intranet Engine",
+      "vendor": "Owl",
+      "version": "0.6",
+      "install_path": "C:\\Program Files\\Owl\\Owl_Intranet_Engine"
+    },
+    {
+      "name": "Telepresence Recording Server",
+      "vendor": "Cisco",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Cisco\\Telepresence_Recording_Server"
+    },
+    {
+      "name": "Pts-Bux",
+      "vendor": "Mybuxscript",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Mybuxscript\\Pts-Bux"
+    },
+    {
+      "name": "Phpmynewsletter",
+      "vendor": "Gregory Kokanosky",
+      "version": "0.6.10",
+      "install_path": "C:\\Program Files\\Gregory_Kokanosky\\Phpmynewsletter"
+    },
+    {
+      "name": "Khoj",
+      "vendor": "Khoj",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Khoj\\Khoj"
+    },
+    {
+      "name": "Martcoin",
+      "vendor": "Martcoin",
+      "version": "-",
+      "install_path": "C:\\Program Files\\Martcoin\\Martcoin"
+    },
+    {
+      "name": "Sitetrafficstats",
+      "vendor": "Sitetrafficstats",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Sitetrafficstats\\Sitetrafficstats"
+    },
+    {
+      "name": "Nw",
+      "vendor": "Nwjs",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Nwjs\\Nw"
+    },
+    {
+      "name": "Linux",
+      "vendor": "Oracle",
+      "version": "6.0",
+      "install_path": "C:\\Program Files\\Oracle\\Linux"
+    },
+    {
+      "name": "Idv Directory Viewer",
+      "vendor": "Idv Directory Viewer",
+      "version": "2005.1_b1",
+      "install_path": "C:\\Program Files\\Idv_Directory_Viewer\\Idv_Directory_Viewer"
+    },
+    {
+      "name": "Wp-Championship",
+      "vendor": "Wp-Championship Project",
+      "version": "5.8",
+      "install_path": "C:\\Program Files\\Wp-Championship_Project\\Wp-Championship"
+    },
+    {
+      "name": "Ios",
+      "vendor": "Cisco",
+      "version": "12.2(14)sz",
+      "install_path": "C:\\Program Files\\Cisco\\Ios"
+    },
+    {
+      "name": "Libeuv",
+      "vendor": "Troglobit",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Troglobit\\Libeuv"
+    },
+    {
+      "name": "Fox Datadiode",
+      "vendor": "Fox-It",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Fox-It\\Fox_Datadiode"
+    },
+    {
+      "name": "Gnutls",
+      "vendor": "Gnu",
+      "version": "3.1.0",
+      "install_path": "C:\\Program Files\\Gnu\\Gnutls"
+    },
+    {
+      "name": "Arcmap",
+      "vendor": "Esri",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Esri\\Arcmap"
+    },
+    {
+      "name": "Checkfront Online Booking System",
+      "vendor": "Checkfront",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Checkfront\\Checkfront_Online_Booking_System"
+    },
+    {
+      "name": "Asr1803 Firmware",
+      "vendor": "Asrmicro",
+      "version": "cp01.057.063",
+      "install_path": "C:\\Program Files\\Asrmicro\\Asr1803_Firmware"
+    },
+    {
+      "name": "Checkfront Online Booking System931",
+      "vendor": "Checkfront906",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Checkfront906\\Checkfront_Online_Booking_System931"
+    },
+    {
+      "name": "Phpmynewsletter638",
+      "vendor": "Gregory Kokanosky578",
+      "version": "0.6.10",
+      "install_path": "C:\\Program Files\\Gregory_Kokanosky578\\Phpmynewsletter638"
+    },
+    {
+      "name": "Fusion Middleware619",
+      "vendor": "Oracle622",
+      "version": "11.1.1.1.0",
+      "install_path": "C:\\Program Files\\Oracle622\\Fusion_Middleware619"
+    },
+    {
+      "name": "Checkfront Online Booking System931985",
+      "vendor": "Checkfront906395",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Checkfront906395\\Checkfront_Online_Booking_System931985"
+    },
+    {
+      "name": "Gnutls179",
+      "vendor": "Gnu499",
+      "version": "3.1.0",
+      "install_path": "C:\\Program Files\\Gnu499\\Gnutls179"
+    },
+    {
+      "name": "Fusion Middleware390",
+      "vendor": "Oracle822",
+      "version": "11.1.1.1.0",
+      "install_path": "C:\\Program Files\\Oracle822\\Fusion_Middleware390"
+    },
+    {
+      "name": "Gnutls152",
+      "vendor": "Gnu702",
+      "version": "3.1.0",
+      "install_path": "C:\\Program Files\\Gnu702\\Gnutls152"
+    },
+    {
+      "name": "Khoj274",
+      "vendor": "Khoj41",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Khoj41\\Khoj274"
+    },
+    {
+      "name": "Martcoin629",
+      "vendor": "Martcoin634",
+      "version": "-",
+      "install_path": "C:\\Program Files\\Martcoin634\\Martcoin629"
+    },
+    {
+      "name": "Checkfront Online Booking System931299",
+      "vendor": "Checkfront906368",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Checkfront906368\\Checkfront_Online_Booking_System931299"
+    },
+    {
+      "name": "Fusion Middleware390743",
+      "vendor": "Oracle82277",
+      "version": "11.1.1.1.0",
+      "install_path": "C:\\Program Files\\Oracle82277\\Fusion_Middleware390743"
+    },
+    {
+      "name": "Pts-Bux416",
+      "vendor": "Mybuxscript258",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Mybuxscript258\\Pts-Bux416"
+    },
+    {
+      "name": "Martcoin629358",
+      "vendor": "Martcoin634665",
+      "version": "-",
+      "install_path": "C:\\Program Files\\Martcoin634665\\Martcoin629358"
+    },
+    {
+      "name": "Arcmap80",
+      "vendor": "Esri856",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Esri856\\Arcmap80"
+    },
+    {
+      "name": "Checkfront Online Booking System931299108",
+      "vendor": "Checkfront906368124",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Checkfront906368124\\Checkfront_Online_Booking_System931299108"
+    },
+    {
+      "name": "Martcoin629712",
+      "vendor": "Martcoin634253",
+      "version": "-",
+      "install_path": "C:\\Program Files\\Martcoin634253\\Martcoin629712"
+    },
+    {
+      "name": "Gnutls15224",
+      "vendor": "Gnu702798",
+      "version": "3.1.0",
+      "install_path": "C:\\Program Files\\Gnu702798\\Gnutls15224"
+    },
+    {
+      "name": "Asr1803 Firmware140",
+      "vendor": "Asrmicro724",
+      "version": "cp01.057.063",
+      "install_path": "C:\\Program Files\\Asrmicro724\\Asr1803_Firmware140"
+    },
+    {
+      "name": "Gnutls261",
+      "vendor": "Gnu742",
+      "version": "3.1.0",
+      "install_path": "C:\\Program Files\\Gnu742\\Gnutls261"
+    },
+    {
+      "name": "Gnutls15224353",
+      "vendor": "Gnu70279815",
+      "version": "3.1.0",
+      "install_path": "C:\\Program Files\\Gnu70279815\\Gnutls15224353"
+    },
+    {
+      "name": "Arcmap688",
+      "vendor": "Esri865",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Esri865\\Arcmap688"
+    },
+    {
+      "name": "Checkfront Online Booking System931352",
+      "vendor": "Checkfront906560",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Checkfront906560\\Checkfront_Online_Booking_System931352"
+    },
+    {
+      "name": "Asr1803 Firmware559",
+      "vendor": "Asrmicro630",
+      "version": "cp01.057.063",
+      "install_path": "C:\\Program Files\\Asrmicro630\\Asr1803_Firmware559"
+    },
+    {
+      "name": "Martcoin499",
+      "vendor": "Martcoin373",
+      "version": "-",
+      "install_path": "C:\\Program Files\\Martcoin373\\Martcoin499"
+    },
+    {
+      "name": "Khoj996",
+      "vendor": "Khoj725",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Khoj725\\Khoj996"
+    },
+    {
+      "name": "Checkfront Online Booking System931299819",
+      "vendor": "Checkfront906368672",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Checkfront906368672\\Checkfront_Online_Booking_System931299819"
+    },
+    {
+      "name": "Fusion Middleware390125",
+      "vendor": "Oracle82291",
+      "version": "11.1.1.1.0",
+      "install_path": "C:\\Program Files\\Oracle82291\\Fusion_Middleware390125"
+    },
+    {
+      "name": "Khoj996384",
+      "vendor": "Khoj725959",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Khoj725959\\Khoj996384"
+    },
+    {
+      "name": "Khoj274530",
+      "vendor": "Khoj41470",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Khoj41470\\Khoj274530"
+    },
+    {
+      "name": "Web Wiz Forums501",
+      "vendor": "Webwiz323",
+      "version": "9.07",
+      "install_path": "C:\\Program Files\\Webwiz323\\Web_Wiz_Forums501"
+    },
+    {
+      "name": "Gnutls152407",
+      "vendor": "Gnu702901",
+      "version": "3.1.0",
+      "install_path": "C:\\Program Files\\Gnu702901\\Gnutls152407"
+    },
+    {
+      "name": "Telepresence Recording Server116",
+      "vendor": "Cisco950",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Cisco950\\Telepresence_Recording_Server116"
+    },
+    {
+      "name": "Libeuv977",
+      "vendor": "Troglobit702",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Troglobit702\\Libeuv977"
+    },
+    {
+      "name": "Asr1803 Firmware615",
+      "vendor": "Asrmicro85",
+      "version": "cp01.057.063",
+      "install_path": "C:\\Program Files\\Asrmicro85\\Asr1803_Firmware615"
+    },
+    {
+      "name": "Gnutls15224353692",
+      "vendor": "Gnu70279815390",
+      "version": "3.1.0",
+      "install_path": "C:\\Program Files\\Gnu70279815390\\Gnutls15224353692"
+    },
+    {
+      "name": "Khoj115",
+      "vendor": "Khoj592",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Khoj592\\Khoj115"
+    },
+    {
+      "name": "Martcoin632",
+      "vendor": "Martcoin412",
+      "version": "-",
+      "install_path": "C:\\Program Files\\Martcoin412\\Martcoin632"
+    },
+    {
+      "name": "Web Wiz Forums289",
+      "vendor": "Webwiz652",
+      "version": "9.07",
+      "install_path": "C:\\Program Files\\Webwiz652\\Web_Wiz_Forums289"
+    },
+    {
+      "name": "Nw532",
+      "vendor": "Nwjs228",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Nwjs228\\Nw532"
+    },
+    {
+      "name": "Fusion Middleware898",
+      "vendor": "Oracle309",
+      "version": "11.1.1.1.0",
+      "install_path": "C:\\Program Files\\Oracle309\\Fusion_Middleware898"
+    },
+    {
+      "name": "Khoj274421",
+      "vendor": "Khoj4183",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Khoj4183\\Khoj274421"
+    },
+    {
+      "name": "Martcoin629712161",
+      "vendor": "Martcoin634253629",
+      "version": "-",
+      "install_path": "C:\\Program Files\\Martcoin634253629\\Martcoin629712161"
+    },
+    {
+      "name": "Arcmap80224",
+      "vendor": "Esri856355",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Esri856355\\Arcmap80224"
+    },
+    {
+      "name": "Idv Directory Viewer658",
+      "vendor": "Idv Directory Viewer599",
+      "version": "2005.1_b1",
+      "install_path": "C:\\Program Files\\Idv_Directory_Viewer599\\Idv_Directory_Viewer658"
+    },
+    {
+      "name": "Asr1803 Firmware17",
+      "vendor": "Asrmicro749",
+      "version": "cp01.057.063",
+      "install_path": "C:\\Program Files\\Asrmicro749\\Asr1803_Firmware17"
+    },
+    {
+      "name": "Fusion Middleware801",
+      "vendor": "Oracle401",
+      "version": "11.1.1.1.0",
+      "install_path": "C:\\Program Files\\Oracle401\\Fusion_Middleware801"
+    },
+    {
+      "name": "Khoj274421367",
+      "vendor": "Khoj4183767",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Khoj4183767\\Khoj274421367"
+    },
+    {
+      "name": "Web Wiz Forums501623",
+      "vendor": "Webwiz323394",
+      "version": "9.07",
+      "install_path": "C:\\Program Files\\Webwiz323394\\Web_Wiz_Forums501623"
+    },
+    {
+      "name": "Arcmap80624",
+      "vendor": "Esri856185",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Esri856185\\Arcmap80624"
+    },
+    {
+      "name": "Gnutls152407281",
+      "vendor": "Gnu702901908",
+      "version": "3.1.0",
+      "install_path": "C:\\Program Files\\Gnu702901908\\Gnutls152407281"
+    },
+    {
+      "name": "Martcoin629358222",
+      "vendor": "Martcoin634665924",
+      "version": "-",
+      "install_path": "C:\\Program Files\\Martcoin634665924\\Martcoin629358222"
+    },
+    {
+      "name": "Asr1803 Firmware615273",
+      "vendor": "Asrmicro85936",
+      "version": "cp01.057.063",
+      "install_path": "C:\\Program Files\\Asrmicro85936\\Asr1803_Firmware615273"
+    },
+    {
+      "name": "Martcoin629712881",
+      "vendor": "Martcoin63425367",
+      "version": "-",
+      "install_path": "C:\\Program Files\\Martcoin63425367\\Martcoin629712881"
+    },
+    {
+      "name": "Checkfront Online Booking System775",
+      "vendor": "Checkfront722",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Checkfront722\\Checkfront_Online_Booking_System775"
+    },
+    {
+      "name": "Nw274",
+      "vendor": "Nwjs434",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Nwjs434\\Nw274"
+    },
+    {
+      "name": "Web Wiz Forums501623522",
+      "vendor": "Webwiz323394757",
+      "version": "9.07",
+      "install_path": "C:\\Program Files\\Webwiz323394757\\Web_Wiz_Forums501623522"
+    },
+    {
+      "name": "Arcmap80224303",
+      "vendor": "Esri856355452",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Esri856355452\\Arcmap80224303"
+    },
+    {
+      "name": "Gnutls15224997",
+      "vendor": "Gnu702798336",
+      "version": "3.1.0",
+      "install_path": "C:\\Program Files\\Gnu702798336\\Gnutls15224997"
+    },
+    {
+      "name": "Ios556",
+      "vendor": "Cisco75",
+      "version": "12.2(14)sz",
+      "install_path": "C:\\Program Files\\Cisco75\\Ios556"
+    },
+    {
+      "name": "Checkfront Online Booking System775453",
+      "vendor": "Checkfront722400",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Checkfront722400\\Checkfront_Online_Booking_System775453"
+    },
+    {
+      "name": "Khoj78",
+      "vendor": "Khoj759",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Khoj759\\Khoj78"
+    },
+    {
+      "name": "Nw992",
+      "vendor": "Nwjs998",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Nwjs998\\Nw992"
+    },
+    {
+      "name": "Khoj996308",
+      "vendor": "Khoj725551",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Khoj725551\\Khoj996308"
+    },
+    {
+      "name": "Martcoin405",
+      "vendor": "Martcoin22",
+      "version": "-",
+      "install_path": "C:\\Program Files\\Martcoin22\\Martcoin405"
+    },
+    {
+      "name": "Checkfront Online Booking System931299738",
+      "vendor": "Checkfront906368103",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Checkfront906368103\\Checkfront_Online_Booking_System931299738"
+    },
+    {
+      "name": "Gnutls15240750",
+      "vendor": "Gnu702901523",
+      "version": "3.1.0",
+      "install_path": "C:\\Program Files\\Gnu702901523\\Gnutls15240750"
+    },
+    {
+      "name": "Arcmap80224802",
+      "vendor": "Esri856355973",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Esri856355973\\Arcmap80224802"
+    },
+    {
+      "name": "Martcoin632243",
+      "vendor": "Martcoin412210",
+      "version": "-",
+      "install_path": "C:\\Program Files\\Martcoin412210\\Martcoin632243"
+    },
+    {
+      "name": "Gnutls15224353776",
+      "vendor": "Gnu70279815425",
+      "version": "3.1.0",
+      "install_path": "C:\\Program Files\\Gnu70279815425\\Gnutls15224353776"
+    },
+    {
+      "name": "Checkfront Online Booking System931299738196",
+      "vendor": "Checkfront906368103968",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Checkfront906368103968\\Checkfront_Online_Booking_System931299738196"
+    },
+    {
+      "name": "Gnutls179256",
+      "vendor": "Gnu499735",
+      "version": "3.1.0",
+      "install_path": "C:\\Program Files\\Gnu499735\\Gnutls179256"
+    },
+    {
+      "name": "Martcoin499503",
+      "vendor": "Martcoin37395",
+      "version": "-",
+      "install_path": "C:\\Program Files\\Martcoin37395\\Martcoin499503"
+    },
+    {
+      "name": "Web Wiz Forums351",
+      "vendor": "Webwiz765",
+      "version": "9.07",
+      "install_path": "C:\\Program Files\\Webwiz765\\Web_Wiz_Forums351"
+    },
+    {
+      "name": "Fusion Middleware566",
+      "vendor": "Oracle11",
+      "version": "11.1.1.1.0",
+      "install_path": "C:\\Program Files\\Oracle11\\Fusion_Middleware566"
+    },
+    {
+      "name": "Asr1803 Firmware559263",
+      "vendor": "Asrmicro630962",
+      "version": "cp01.057.063",
+      "install_path": "C:\\Program Files\\Asrmicro630962\\Asr1803_Firmware559263"
+    },
+    {
+      "name": "Fusion Middleware801718",
+      "vendor": "Oracle401578",
+      "version": "11.1.1.1.0",
+      "install_path": "C:\\Program Files\\Oracle401578\\Fusion_Middleware801718"
+    },
+    {
+      "name": "Martcoin629358222681",
+      "vendor": "Martcoin634665924718",
+      "version": "-",
+      "install_path": "C:\\Program Files\\Martcoin634665924718\\Martcoin629358222681"
+    },
+    {
+      "name": "Asr1803 Firmware667",
+      "vendor": "Asrmicro957",
+      "version": "cp01.057.063",
+      "install_path": "C:\\Program Files\\Asrmicro957\\Asr1803_Firmware667"
+    },
+    {
+      "name": "Arcmap688626",
+      "vendor": "Esri865178",
+      "version": "*",
+      "install_path": "C:\\Program Files\\Esri865178\\Arcmap688626"
+    },
+    {
+      "name": "Web Wiz Forums501623521",
+      "vendor": "Webwiz323394642",
+      "version": "9.07",
+      "install_path": "C:\\Program Files\\Webwiz323394642\\Web_Wiz_Forums501623521"
+    }
+  ]
+}

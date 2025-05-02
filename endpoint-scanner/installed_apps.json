@@ -1,0 +1,2210 @@
+{
+  "system_info": {
+    "os_name": "Windows",
+    "os_version": "10.0.26100"
+  },
+  "applications": [
+    {
+      "name": "Visual Studio Community 2022",
+      "version": "17.13.0",
+      "vendor": "Microsoft Corporation",
+      "install_path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community"
+    },
+    {
+      "name": "MSI Afterburner 4.6.5",
+      "version": "4.6.5",
+      "vendor": "MSI Co., LTD",
+      "install_path": ""
+    },
+    {
+      "name": "Battle.net",
+      "version": "",
+      "vendor": "Blizzard Entertainment",
+      "install_path": "C:\\Program Files (x86)\\Battle.net"
+    },
+    {
+      "name": "Cisco Secure Client - AnyConnect VPN ",
+      "version": "5.1.7.80",
+      "vendor": "Cisco Systems, Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "IntelliJ IDEA 2024.3",
+      "version": "243.21565.193",
+      "vendor": "JetBrains s.r.o.",
+      "install_path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.3"
+    },
+    {
+      "name": "Microsoft Edge",
+      "version": "135.0.3179.98",
+      "vendor": "Microsoft Corporation",
+      "install_path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application"
+    },
+    {
+      "name": "Microsoft Edge WebView2 Runtime",
+      "version": "135.0.3179.98",
+      "vendor": "Microsoft Corporation",
+      "install_path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application"
+    },
+    {
+      "name": "OBS Studio",
+      "version": "30.2.3",
+      "vendor": "OBS Project",
+      "install_path": ""
+    },
+    {
+      "name": "Overwolf",
+      "version": "0.273.1.4",
+      "vendor": "Overwolf Ltd.",
+      "install_path": "C:\\Program Files (x86)\\Overwolf\\"
+    },
+    {
+      "name": "Steam",
+      "version": "2.10.91.91",
+      "vendor": "Valve Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Ubisoft Connect",
+      "version": "137.0.10799",
+      "vendor": "Ubisoft",
+      "install_path": "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\"
+    },
+    {
+      "name": "Intel(R) Wireless Bluetooth(R)",
+      "version": "23.120.0.4",
+      "vendor": "Intel Corporation",
+      "install_path": "C:\\Program Files (x86)\\Intel\\"
+    },
+    {
+      "name": "ASUS AURA Motherboard HAL",
+      "version": "1.5.0.2",
+      "vendor": "ASUSTeK COMPUTER INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Windows Mobile Extension SDK Contracts",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "GameSDK Service",
+      "version": "1.0.5.0",
+      "vendor": "ASUSTek COMPUTER INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK for Windows Store Managed Apps Libs",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+      "version": "12.0.30501.0",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Framework 4.7.1 Doc Redirected Targeting Pack (Italiano)",
+      "version": "4.7.02558",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "ENE_EHD_M2_HAL",
+      "version": "1.0.13.0",
+      "vendor": "ENE TECHNOLOGY INC.",
+      "install_path": ""
+    },
+    {
+      "name": "UE4 Prerequisites (x64)",
+      "version": "1.0.14.0",
+      "vendor": "Epic Games, Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "ASUS AIOFan HAL",
+      "version": "1.4.0.0",
+      "vendor": "ASUSTek COMPUTER INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Assistente per l'installazione di Windows 11",
+      "version": "1.4.19041.2063",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "vs_communitymsires",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Runtime - 7.0.17 (x86)",
+      "version": "56.68.10360",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "vs_CoreEditorFonts",
+      "version": "17.7.40001",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "PS Remote Play",
+      "version": "6.0.0.02240",
+      "vendor": "Sony Interactive Entertainment Inc.",
+      "install_path": "C:\\Program Files (x86)\\Sony\\PS Remote Play\\"
+    },
+    {
+      "name": "vs_devenvsharedmsi",
+      "version": "17.13.35710",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "WPTx64 (OnecoreUAP)",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft",
+      "install_path": ""
+    },
+    {
+      "name": "Universal CRT Redistributable",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "AURA lighting effect add-on",
+      "version": "0.0.44",
+      "vendor": "ASUSTek COMPUTER INC.",
+      "install_path": ""
+    },
+    {
+      "name": "icecap_collectionresources",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft GameInput",
+      "version": "10.1.22621.3036",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "ASUS AURA VGA Component",
+      "version": "0.0.7.0",
+      "vendor": "ASUSTek COMPUTER INC. ",
+      "install_path": ""
+    },
+    {
+      "name": "vs_githubprotocolhandlermsi",
+      "version": "17.13.35710",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Core Runtime - 3.1.28 (x64)",
+      "version": "3.1.28.31513",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 3.1.16 (x86)",
+      "version": "24.64.30112",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 7.0.17 (x64)",
+      "version": "7.0.17.33416",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Desktop Libs x86",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft ASP.NET Core 7.0.17 - Shared Framework (x64)",
+      "version": "7.0.17.24116",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Intel Driver & Support Assistant",
+      "version": "25.2.15.9",
+      "vendor": "Intel",
+      "install_path": ""
+    },
+    {
+      "name": "Samsung Magician",
+      "version": "8.3.0.810",
+      "vendor": "Samsung Electronics",
+      "install_path": "C:\\Program Files (x86)\\Samsung\\Samsung Magician\\"
+    },
+    {
+      "name": "Microsoft .NET Runtime - 6.0.16 (x64)",
+      "version": "6.0.16.32323",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows App Certification Kit x64",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Cisco Secure Client - AnyConnect VPN",
+      "version": "5.1.7.80",
+      "vendor": "Cisco Systems, Inc.",
+      "install_path": "C:\\Program Files (x86)\\Cisco\\Cisco Secure Client\\"
+    },
+    {
+      "name": "SDK ARM Additions",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 7.0.17 (x86)",
+      "version": "7.0.17.33416",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Desktop Libs arm",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft ASP.NET Core 7.0.17 Shared Framework (x86)",
+      "version": "7.0.17.24116",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Desktop Headers arm",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Epic Online Services",
+      "version": "2.0.28.0",
+      "vendor": "Epic Games, Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "ASUS Framework Service",
+      "version": "4.2.0.4",
+      "vendor": "ASUSTeK Computer Inc.",
+      "install_path": "C:\\Program Files (x86)\\ASUS\\ArmouryDevice"
+    },
+    {
+      "name": "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+      "version": "11.0.61030.0",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "ENE RGB HAL",
+      "version": "1.1.53.0",
+      "vendor": "Ene Tech.",
+      "install_path": ""
+    },
+    {
+      "name": "Intel Driver && Support Assistant",
+      "version": "25.2.15.9",
+      "vendor": "Intel",
+      "install_path": "C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\"
+    },
+    {
+      "name": "Windows SDK for Windows Store Apps Tools",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 7.0.17 (x86)",
+      "version": "56.68.10379",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "vs_communitysharedmsi",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Universal CRT Tools x86",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "MSI Development Tools",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "vs_minshellmsires",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Desktop Headers x64",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "vcpp_crt.redist.clickonce",
+      "version": "14.42.34438",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "WinRT Intellisense UAP - Other Languages",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 3.1.8 (x64)",
+      "version": "3.1.8.29220",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "vs_filehandler_amd64",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Redistributables",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Launcher Prerequisites (x64)",
+      "version": "1.0.0.0",
+      "vendor": "Epic Games, Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "WinRT Intellisense IoT - en-us",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Host FX Resolver - 8.0.14 (x86)",
+      "version": "64.56.29490",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "osu!",
+      "version": "latest",
+      "vendor": "ppy Pty Ltd",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual Studio Setup WMI Provider",
+      "version": "3.12.2140.44225",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "ASUS AURA Extension Card HAL",
+      "version": "1.1.0.20",
+      "vendor": "ASUSTeK COMPUTER INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK for Windows Store Apps Metadata",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft ASP.NET Core 7.0.17 - Shared Framework (x86)",
+      "version": "7.0.17.24116",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "vs_vswebprotocolselectormsi",
+      "version": "17.13.35710",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "EA app",
+      "version": "13.200.0.5713",
+      "vendor": "Electronic Arts",
+      "install_path": ""
+    },
+    {
+      "name": "WinRT Intellisense Desktop - Other Languages",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "PHISON HAL",
+      "version": "1.0.9.0",
+      "vendor": "PHISON Electronics Corp.",
+      "install_path": ""
+    },
+    {
+      "name": "Patriot Viper DRAM RGB",
+      "version": "1.0.9.8",
+      "vendor": "Patriot Memory",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Framework 4.7.1 Targeting Pack",
+      "version": "4.7.02558",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Signing Tools",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "AURA Service",
+      "version": "3.07.54",
+      "vendor": "ASUSTeK Computer Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "Foxit PDF Reader",
+      "version": "2023.2.0.21408",
+      "vendor": "Foxit Software Inc.",
+      "install_path": "C:\\Program Files (x86)\\Foxit Software\\Foxit PDF Reader\\"
+    },
+    {
+      "name": "AURA Service",
+      "version": "3.07.54",
+      "vendor": "ASUSTeK Computer Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Host - 7.0.17 (x86)",
+      "version": "56.68.10360",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Kits Configuration Installer",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Core Host - 3.1.16 (x86)",
+      "version": "24.64.30112",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "WinRT Intellisense PPI - Other Languages",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "vs_Graphics_Singletonx86",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK for Windows Store Apps Contracts",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "vs_minshellsharedmsi",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK for Windows Store Apps",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "WinRT Intellisense IoT - Other Languages",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Epic Games Launcher",
+      "version": "1.3.0.0",
+      "vendor": "Epic Games, Inc.",
+      "install_path": "C:\\Program Files (x86)\\Epic Games\\"
+    },
+    {
+      "name": "Patriot Viper M2 SSD RGB",
+      "version": "1.1.0.3",
+      "vendor": "Patriot Memory",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Runtime - 8.0.14 (x86)",
+      "version": "64.56.29490",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "GameSDK Service",
+      "version": "1.0.5.0",
+      "vendor": "ASUSTek COMPUTER INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Windows Software Development Kit - Windows 10.0.22621.3233",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2005 Redistributable",
+      "version": "8.0.56336",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X86 Debug Runtime - 14.42.34438",
+      "version": "14.42.34438",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows App Certification Kit x64 (OnecoreUAP)",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK for Windows Store Apps Headers",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Modern Non-Versioned Developer Tools",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Facade Windows WinMD Versioned",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows Desktop Extension SDK Contracts",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "WinRT Intellisense Mobile - en-us",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34433",
+      "version": "14.42.34433.0",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK DirectX x86 Remote",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664",
+      "version": "12.0.40664",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Desktop Libs x64",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.42.34433",
+      "version": "14.42.34433",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Core Runtime - 3.1.16 (x86)",
+      "version": "24.64.30112",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Desktop Libs arm64",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows IoT Extension SDK Contracts",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows Team Extension SDK",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Intel Software Installer",
+      "version": "23.110.0.5",
+      "vendor": "Intel Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "ASUS Motherboard",
+      "version": "4.03.01",
+      "vendor": "ASUSTek Computer Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "WinRT Intellisense UAP - en-us",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK ARM Desktop Tools",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "ASUS Ambient HAL",
+      "version": "4.2.0.0",
+      "vendor": "ASUSTeK COMPUTER INC.",
+      "install_path": ""
+    },
+    {
+      "name": "AURA DRAM Component",
+      "version": "1.1.27",
+      "vendor": "ASUS",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Host FX Resolver - 7.0.17 (x86)",
+      "version": "56.68.10360",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Universal Holtek RGB DRAM",
+      "version": "1.0.0.7",
+      "vendor": "PD",
+      "install_path": ""
+    },
+    {
+      "name": "vs_FileTracker_Singleton",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+      "version": "9.0.30729.6161",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664",
+      "version": "12.0.40664.0",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "vs_minshellinteropsharedmsi",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Core Host FX Resolver - 3.1.16 (x86)",
+      "version": "24.64.30112",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows Mobile Extension SDK",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Desktop Tools arm64",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Runtime - 8.0.14 (x64)",
+      "version": "8.0.14.34611",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Desktop Headers arm64",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "WPT Redistributables",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft",
+      "install_path": ""
+    },
+    {
+      "name": "ASUS Update Helper",
+      "version": "1.3.107.129",
+      "vendor": "ASUSTeK Computer Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "Kingston AURA DRAM Component",
+      "version": "1.1.36",
+      "vendor": "KINGSTON COMPONENTS INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030",
+      "version": "11.0.61030",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "WinRT Intellisense Desktop - en-us",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft ASP.NET Core 8.0.14 - Shared Framework (x86)",
+      "version": "8.0.14.25112",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "SDK ARM Redistributables",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Intel(R) Chipset Device Software",
+      "version": "10.1.18295.8201",
+      "vendor": "Intel(R) Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "icecap_collectionresourcesx64",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft ASP.NET Core 8.0.14 Shared Framework (x86)",
+      "version": "8.0.14.25112",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 8.0.11 (x64)",
+      "version": "8.0.11.34221",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030",
+      "version": "11.0.61030",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "VS Immersive Activate Helper",
+      "version": "17.0.157.0",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Desktop Tools x64",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.42.34433",
+      "version": "14.42.34433",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "WinRT Intellisense PPI - en-us",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Modern Versioned Developer Tools",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Python Launcher",
+      "version": "3.13.2150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows App Certification Kit SupportedApiList x86",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "WinAppDeploy",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+      "version": "11.0.61030.0",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Desktop Tools x86",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Host - 8.0.14 (x86)",
+      "version": "64.56.29490",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK for Windows Store Apps Libs",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows IoT Extension SDK",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual Studio Setup Configuration",
+      "version": "3.12.2140.44225",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "vcpp_crt.redist.clickonce",
+      "version": "14.31.31103",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Universal General MIDI DLS Extension SDK",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Universal CRT Headers Libraries and Sources",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664",
+      "version": "12.0.40664",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows Desktop Extension SDK",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "WPTx64 (DesktopEditions)",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft",
+      "install_path": ""
+    },
+    {
+      "name": "icecap_collection_neutral",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "vs_vswebprotocolselectormsires",
+      "version": "17.13.35710",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK AddOn",
+      "version": "10.1.0.0",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "WD_BLACK AN1500",
+      "version": "1.0.14.0",
+      "vendor": "ENE TECHNOLOGY INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK EULA",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporations",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.42.34433",
+      "version": "14.42.34433.0",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Universal CRT Extension SDK",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 3.1.16 (x86)",
+      "version": "3.1.16.30112",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "vs_tipsmsi",
+      "version": "17.13.35710",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 6.0.33 (x64)",
+      "version": "6.0.33.33916",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+      "version": "10.0.40219",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 8.0.14 (x86)",
+      "version": "64.56.29521",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK Desktop Headers x86",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+      "version": "12.0.30501.0",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 8.0.14 (x86)",
+      "version": "8.0.14.34613",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "vs_filehandler_x86",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows Team Extension SDK Contracts",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Pacchetto driver Windows - PANTECH Co., Ltd.  (PSKTBUS) USB  (06/20/2012 4.0.21.0)",
+      "version": "06/20/2012 4.0.21.0",
+      "vendor": "PANTECH Co., Ltd. ",
+      "install_path": ""
+    },
+    {
+      "name": "Pacchetto driver Windows - LG Electronics, Inc. (AndnetBus) USB  (01/06/2021 4.8.0.0)",
+      "version": "01/06/2021 4.8.0.0",
+      "vendor": "LG Electronics, Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "Pacchetto driver Windows - LG Electronics Inc. (usbbus) USB  (02/17/2016 5.3.0.0)",
+      "version": "02/17/2016 5.3.0.0",
+      "vendor": "LG Electronics Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "Pacchetto driver Windows - Motorola (motccgp) USB  (03/01/2013 3.4.0.0)",
+      "version": "03/01/2013 3.4.0.0",
+      "vendor": "Motorola",
+      "install_path": ""
+    },
+    {
+      "name": "Pacchetto driver Windows - LG Electronics Inc. (Andbus) USB  (11/30/2010 2.2.0.0)",
+      "version": "11/30/2010 2.2.0.0",
+      "vendor": "LG Electronics Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "Pacchetto driver Windows - SAMSUNG Electronics Co., Ltd.  (dg_ssudbus) USB  (06/10/2014 2.11.10.0)",
+      "version": "06/10/2014 2.11.10.0",
+      "vendor": "SAMSUNG Electronics Co., Ltd. ",
+      "install_path": ""
+    },
+    {
+      "name": "Pacchetto driver Windows - HS Incorporated (massfilter_hs) USB  (10/20/2010 2.0.0.8)",
+      "version": "10/20/2010 2.0.0.8",
+      "vendor": "HS Incorporated",
+      "install_path": ""
+    },
+    {
+      "name": "Pacchetto driver Windows - SHARP (shu0bus) USB  (08/11/2011 5.28.4.0)",
+      "version": "08/11/2011 5.28.4.0",
+      "vendor": "SHARP",
+      "install_path": ""
+    },
+    {
+      "name": "Pacchetto driver Windows - SAMSUNG Electronics Co., Ltd.  (ssaebus) USB  (02/05/2010 5.14.0.0)",
+      "version": "02/05/2010 5.14.0.0",
+      "vendor": "SAMSUNG Electronics Co., Ltd. ",
+      "install_path": ""
+    },
+    {
+      "name": "Pacchetto driver Windows - Google, Inc. (WinUSB) AndroidUsbDeviceClass  (01/06/2021 4.8.0.0)",
+      "version": "01/06/2021 4.8.0.0",
+      "vendor": "Google, Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "Pacchetto driver Windows - LG Electronics Inc. (AndDiag) Ports  (11/30/2010 2.2.0.0)",
+      "version": "11/30/2010 2.2.0.0",
+      "vendor": "LG Electronics Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "Android Studio",
+      "version": "2023.3",
+      "vendor": "Google LLC",
+      "install_path": ""
+    },
+    {
+      "name": "Autodesk Identity Manager",
+      "version": "1.12.0.7",
+      "vendor": "Autodesk",
+      "install_path": "C:\\Program Files\\Autodesk\\AdskIdentityManager\\1.12.0.7"
+    },
+    {
+      "name": "Pacchetto driver Windows - HTC, Corporation (HTCAND64) USB  (07/30/2015 2.0.0007.00030)",
+      "version": "07/30/2015 2.0.0007.00030",
+      "vendor": "HTC, Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Pacchetto driver Windows - SAMSUNG Electronics Co., Ltd.  (ssadbus) USB  (11/30/2012 5.30.14.0)",
+      "version": "11/30/2012 5.30.14.0",
+      "vendor": "SAMSUNG Electronics Co., Ltd. ",
+      "install_path": ""
+    },
+    {
+      "name": "Cheat Engine 7.5",
+      "version": "",
+      "vendor": "Cheat Engine",
+      "install_path": "C:\\Program Files\\Cheat Engine 7.5\\"
+    },
+    {
+      "name": "CPUID CPU-Z 2.10",
+      "version": "2.10",
+      "vendor": "CPUID, Inc.",
+      "install_path": "C:\\Program Files\\CPUID\\CPU-Z\\"
+    },
+    {
+      "name": "Docker Desktop",
+      "version": "4.40.0",
+      "vendor": "Docker Inc.",
+      "install_path": "C:\\Program Files\\Docker\\Docker"
+    },
+    {
+      "name": "DroidCam Audio & Video Drivers (New)",
+      "version": "7.1.0",
+      "vendor": "Dev47Apps",
+      "install_path": ""
+    },
+    {
+      "name": "DroidCam Client (New)",
+      "version": "7.1.0",
+      "vendor": "Dev47Apps",
+      "install_path": ""
+    },
+    {
+      "name": "Git",
+      "version": "2.45.1",
+      "vendor": "The Git Development Community",
+      "install_path": "C:\\Program Files\\Git\\"
+    },
+    {
+      "name": "Intel Hardware Accelerated Execution Manager",
+      "version": "7.6.5",
+      "vendor": "Intel Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Office Home and Student 2016 - it-it",
+      "version": "16.0.18623.20208",
+      "vendor": "Microsoft Corporation",
+      "install_path": "C:\\Program Files\\Microsoft Office"
+    },
+    {
+      "name": "Microsoft OneDrive",
+      "version": "25.060.0330.0003",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Intel(R) Network Connections Drivers",
+      "version": "29.1",
+      "vendor": "Intel",
+      "install_path": "C:\\WINDOWS\\system32"
+    },
+    {
+      "name": "Riot Vanguard",
+      "version": "",
+      "vendor": "Riot Games, Inc.",
+      "install_path": "C:\\Program Files\\Riot Vanguard"
+    },
+    {
+      "name": "ELDEN RING",
+      "version": "",
+      "vendor": "FromSoftware Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "Just Act Natural",
+      "version": "",
+      "vendor": "Conor Garity",
+      "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Just Act Natural"
+    },
+    {
+      "name": "The Quarry",
+      "version": "",
+      "vendor": "Supermassive Games",
+      "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\The Quarry"
+    },
+    {
+      "name": "Persona 5 Royal",
+      "version": "",
+      "vendor": "ATLUS",
+      "install_path": ""
+    },
+    {
+      "name": "DRAGON BALL: Sparking! ZERO",
+      "version": "",
+      "vendor": "Spike Chunsoft Co., Ltd.",
+      "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DRAGON BALL Sparking! ZERO"
+    },
+    {
+      "name": "Lethal Company",
+      "version": "",
+      "vendor": "Zeekerss",
+      "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Lethal Company"
+    },
+    {
+      "name": "God of War Ragnark",
+      "version": "",
+      "vendor": "Santa Monica Studio",
+      "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\God of War Ragnarok"
+    },
+    {
+      "name": "Outlast",
+      "version": "",
+      "vendor": "Red Barrels",
+      "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Outlast"
+    },
+    {
+      "name": "Assetto Corsa",
+      "version": "",
+      "vendor": "Kunos Simulazioni",
+      "install_path": ""
+    },
+    {
+      "name": "Content Warning",
+      "version": "",
+      "vendor": "Skog",
+      "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Content Warning"
+    },
+    {
+      "name": "LEGO Harry PotterT Collection",
+      "version": "",
+      "vendor": "TT Games",
+      "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\LHPCR"
+    },
+    {
+      "name": "Geometry Dash",
+      "version": "",
+      "vendor": "RobTop Games",
+      "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Geometry Dash"
+    },
+    {
+      "name": "Undertale",
+      "version": "",
+      "vendor": "tobyfox",
+      "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Undertale"
+    },
+    {
+      "name": "Wallpaper Engine",
+      "version": "",
+      "vendor": "Wallpaper Engine Team",
+      "install_path": "D:\\SteamLibrary\\steamapps\\common\\wallpaper_engine"
+    },
+    {
+      "name": "DARK SOULST: REMASTERED",
+      "version": "",
+      "vendor": "QLOC",
+      "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DARK SOULS REMASTERED"
+    },
+    {
+      "name": "SekiroT: Shadows Die Twice",
+      "version": "",
+      "vendor": "FromSoftware",
+      "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sekiro"
+    },
+    {
+      "name": "Unity 6000.0.37f1",
+      "version": "6000.0.37f1",
+      "vendor": "Unity Technologies ApS",
+      "install_path": ""
+    },
+    {
+      "name": "Unity Hub 3.11.1",
+      "version": "3.11.1",
+      "vendor": "Unity Technologies Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "VLC media player",
+      "version": "3.0.20",
+      "vendor": "VideoLAN",
+      "install_path": "C:\\Program Files\\VideoLAN\\VLC"
+    },
+    {
+      "name": "WinRAR 6.02 (64-bit)",
+      "version": "6.02.0",
+      "vendor": "win.rar GmbH",
+      "install_path": "C:\\Program Files\\WinRAR\\"
+    },
+    {
+      "name": "Microsoft .NET Host - 8.0.14 (x64)",
+      "version": "64.56.29490",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Runtime - 6.0.33 (x64)",
+      "version": "48.132.18378",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "WD_BLACK AN1500",
+      "version": "1.0.14.0",
+      "vendor": "ENE TECHNOLOGY INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Host - 7.0.17 (x64)",
+      "version": "56.68.10360",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.12.6 Tcl/Tk Support (64-bit)",
+      "version": "3.12.6150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Autodesk 3ds Max 2025 CivilView 1.2.3.0",
+      "version": "1.2.3.0",
+      "vendor": "Autodesk",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft ASP.NET Core 7.0.17 Shared Framework (x64)",
+      "version": "7.0.17.24116",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "DiagnosticsHub_CollectionService",
+      "version": "17.12.35318",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "ASUS Ambient HAL",
+      "version": "4.2.0.0",
+      "vendor": "ASUSTeK COMPUTER INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Autodesk 3ds Max 2025",
+      "version": "27.3.0.30874",
+      "vendor": "Autodesk, Inc.",
+      "install_path": "C:\\Program Files\\Autodesk"
+    },
+    {
+      "name": "Autodesk 3ds Max 2025",
+      "version": "27.3.0.30874",
+      "vendor": "Autodesk",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.12.6 pip Bootstrap (64-bit)",
+      "version": "3.12.6150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+      "version": "10.0.40219",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.12.6 Standard Library (64-bit)",
+      "version": "3.12.6150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Patriot Viper DRAM RGB",
+      "version": "1.0.9.8",
+      "vendor": "Patriot Memory",
+      "install_path": ""
+    },
+    {
+      "name": "Autodesk Interoperability Engine Manager",
+      "version": "1.2.4.16",
+      "vendor": "Autodesk, Inc.",
+      "install_path": "C:\\Program Files\\Common Files\\Autodesk Shared\\Interoperability Engine Manager\\"
+    },
+    {
+      "name": "ASUS AURA Extension Card HAL",
+      "version": "1.1.0.20",
+      "vendor": "ASUSTeK COMPUTER INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Core Host - 3.1.28 (x64)",
+      "version": "24.112.31513",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "MAXtoA for 3ds Max 2025",
+      "version": "5.7.5.0",
+      "vendor": "Autodesk",
+      "install_path": ""
+    },
+    {
+      "name": "Application Verifier x64 External Package (OnecoreUAP)",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft",
+      "install_path": ""
+    },
+    {
+      "name": "Universal CRT Tools x64",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "ROG Live Service",
+      "version": "2.4.26.0",
+      "vendor": "ASUSTek COMPUTER INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.12.6 Development Libraries (64-bit)",
+      "version": "3.12.6150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.12.6 Test Suite (64-bit)",
+      "version": "3.12.6150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "vs_devenx64vmsi",
+      "version": "17.13.35710",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.13.2 Add to Path (64-bit)",
+      "version": "3.13.2150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "ASUS AURA Motherboard HAL",
+      "version": "1.5.0.2",
+      "vendor": "ASUSTeK COMPUTER INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Core Runtime - 3.1.28 (x64)",
+      "version": "24.112.31513",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "ENE_EHD_M2_HAL",
+      "version": "1.0.13.0",
+      "vendor": "ENE TECHNOLOGY INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+      "version": "11.0.61030",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34433",
+      "version": "14.42.34433",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "AniMe Matrix MB EN",
+      "version": "1.0.1",
+      "vendor": "ASUS",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.12.6 Add to Path (64-bit)",
+      "version": "3.12.6150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.12.6 Documentation (64-bit)",
+      "version": "3.12.6150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "PlayStation(R) PC SDK Runtime",
+      "version": "2.50.0010",
+      "vendor": "Sony Interactive Entertainment Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "Logitech G HUB",
+      "version": "2025.3.696161",
+      "vendor": "Logitech",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.12.6 Executables (64-bit)",
+      "version": "3.12.6150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.13.2 pip Bootstrap (64-bit)",
+      "version": "3.13.2150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.13.2 Executables (64-bit)",
+      "version": "3.13.2150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161",
+      "version": "9.0.30729.6161",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "ROGFontInstaller",
+      "version": "1.0.0",
+      "vendor": "ASUS",
+      "install_path": ""
+    },
+    {
+      "name": "Intel Software Installer",
+      "version": "23.120.0.3",
+      "vendor": "Intel Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Host FX Resolver - 6.0.33 (x64)",
+      "version": "48.132.18378",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Java(TM) SE Development Kit 17.0.2 (64-bit)",
+      "version": "17.0.2.0",
+      "vendor": "Oracle Corporation",
+      "install_path": "C:\\Program Files\\Java\\jdk-17.0.2\\"
+    },
+    {
+      "name": "Plex Media Server 1.41.6.9685 (x64)",
+      "version": "1.41.6.9685",
+      "vendor": "Plex, Inc.",
+      "install_path": "C:\\Program Files\\Plex\\Plex Media Server\\"
+    },
+    {
+      "name": "Python 3.13.2 Core Interpreter (64-bit)",
+      "version": "3.13.2150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Host FX Resolver - 7.0.17 (x64)",
+      "version": "56.68.10360",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "VS JIT Debugger",
+      "version": "17.0.157.0",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Runtime - 8.0.14 (x64)",
+      "version": "64.56.29490",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual Studio Installer",
+      "version": "3.13.2069.59209",
+      "vendor": "Microsoft Corporation",
+      "install_path": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\""
+    },
+    {
+      "name": "vs_Graphics_Singletonx64",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "ASUS AURA VGA Component",
+      "version": "0.0.7.0",
+      "vendor": "ASUSTek COMPUTER INC. ",
+      "install_path": ""
+    },
+    {
+      "name": "Windows App Certification Kit Native Components",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.13.2 Documentation (64-bit)",
+      "version": "3.13.2150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.13.2 Development Libraries (64-bit)",
+      "version": "3.13.2150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "vs_minshellx64msi",
+      "version": "17.13.35729",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows SDK DirectX x64 Remote",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "icecap_collection_x64",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Autodesk Advanced Modeling Tools for 3ds Max 2025 1.7.0.8",
+      "version": "1.7.0.8",
+      "vendor": "Autodesk",
+      "install_path": ""
+    },
+    {
+      "name": "Universal Holtek RGB DRAM",
+      "version": "1.0.0.7",
+      "vendor": "PD",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Host - 6.0.33 (x64)",
+      "version": "48.132.18378",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.13.2 Standard Library (64-bit)",
+      "version": "3.13.2150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Patriot Viper M2 SSD RGB",
+      "version": "1.1.0.3",
+      "vendor": "Patriot Memory",
+      "install_path": ""
+    },
+    {
+      "name": "Office 16 Click-to-Run Licensing Component",
+      "version": "16.0.18623.20208",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Office 16 Click-to-Run Extensibility Component",
+      "version": "16.0.18623.20156",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Office 16 Click-to-Run Localization Component",
+      "version": "16.0.18623.20156",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.12.6 Core Interpreter (64-bit)",
+      "version": "3.12.6150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Core Host FX Resolver - 3.1.8 (x64)",
+      "version": "24.96.29220",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Core Runtime - 3.1.8 (x64)",
+      "version": "24.96.29220",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005",
+      "version": "12.0.21005",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 7.0.17 (x64)",
+      "version": "56.68.10379",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Firmware updater for DualSenseT wireless controller",
+      "version": "1.5.0.2",
+      "vendor": "Nome societ",
+      "install_path": "C:\\Program Files\\Sony\\FW updater\\"
+    },
+    {
+      "name": "Kingston AURA DRAM Component",
+      "version": "1.1.36",
+      "vendor": "KINGSTON COMPONENTS INC.",
+      "install_path": ""
+    },
+    {
+      "name": "PHISON HAL",
+      "version": "1.0.9.0",
+      "vendor": "PHISON Electronics Corp.",
+      "install_path": ""
+    },
+    {
+      "name": "Intel(R) Chipset Device Software",
+      "version": "10.1.18295.8201",
+      "vendor": "Intel Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Runtime - 8.0.11 (x64)",
+      "version": "64.44.23191",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Autodesk Access",
+      "version": "2.10.0.25",
+      "vendor": "Autodesk, Inc.",
+      "install_path": "C:\\Program Files\\Autodesk"
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 6.0.33 (x64)",
+      "version": "48.132.18374",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "CMake",
+      "version": "4.0.0",
+      "vendor": "Kitware",
+      "install_path": "C:\\Program Files\\CMake\\"
+    },
+    {
+      "name": "Microsoft .NET Runtime - 7.0.17 (x64)",
+      "version": "56.68.10360",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005",
+      "version": "12.0.21005",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Teams Meeting Add-in for Microsoft Office",
+      "version": "1.25.06502",
+      "vendor": "Microsoft",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.13.2 Tcl/Tk Support (64-bit)",
+      "version": "3.13.2150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Windows Subsystem for Linux",
+      "version": "2.3.24.0",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X64 Debug Runtime - 14.42.34438",
+      "version": "14.42.34438",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "MongoDB 8.0.3 2008R2Plus SSL (64 bit)",
+      "version": "8.0.3",
+      "vendor": "MongoDB Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Host FX Resolver - 8.0.14 (x64)",
+      "version": "64.56.29490",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "NVIDIA Driver grafico 576.02",
+      "version": "576.02",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.Driver.{99CF1F69-A6DF-4DA0-AE78-355240142516}"
+    },
+    {
+      "name": "App NVIDIA 11.0.3.232",
+      "version": "11.0.3.232",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.{3CE589E2-BB49-41FC-9E95-B682D05A9699}"
+    },
+    {
+      "name": "NVIDIA MessageBus 3 for NvApp",
+      "version": "3.14",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.MessageBus.{46E26A79-67BD-45C7-B4D7-E0471E07397C}"
+    },
+    {
+      "name": "NVIDIA Backend",
+      "version": "11.0.3.232",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.NvBackend.{51D57625-578F-4127-9AE1-0F78B4C27A6F}"
+    },
+    {
+      "name": "NvCpl",
+      "version": "1.0",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.NvCPL.{3E2A4E26-2897-4302-A933-15514FE7298D}"
+    },
+    {
+      "name": "NVIDIA PhysX System Software 9.23.1019",
+      "version": "9.23.1019",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX"
+    },
+    {
+      "name": "NVIDIA FrameView SDK 1.5.10920.35420203",
+      "version": "1.5.10920.35420203",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK"
+    },
+    {
+      "name": "NVIDIA Driver audio HD 1.4.3.2",
+      "version": "1.4.3.2",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\HDAudio.Driver.{7A403474-BF8E-415D-BD3E-3B853D293454}"
+    },
+    {
+      "name": "NVIDIA Install Application",
+      "version": "2.1002.427.0",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore"
+    },
+    {
+      "name": "NVIDIA Container",
+      "version": "1.42",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\NvContainer"
+    },
+    {
+      "name": "NVIDIA AIUser Container",
+      "version": "1.42",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.AIUser.{A399F4CD-2D48-4668-A85A-20AE222BF43F}"
+    },
+    {
+      "name": "NVIDIA LocalSystem Container",
+      "version": "1.42",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.LocalSystem.{C62B67FF-5724-4A9E-8221-4F93F584F0C5}"
+    },
+    {
+      "name": "NVIDIA Session Container",
+      "version": "1.42",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.Session.{B6F6EF60-37C2-4A58-8A9C-04CD10661E66}"
+    },
+    {
+      "name": "NVIDIA User Container",
+      "version": "1.42",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.User.{D8200EC2-C47E-40F7-9D77-9988839641F4}"
+    },
+    {
+      "name": "NVIDIA NvDLISR",
+      "version": "1.0",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvDLISR.{0FA480E0-B80B-4A35-BCE4-D1B6768CEBED}"
+    },
+    {
+      "name": "NVIDIA Watchdog Plugin for NvContainer",
+      "version": "1.42",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvPlugin.Watchdog.{2BDD1C2E-57BB-4675-BA08-45EE93ED1E68}"
+    },
+    {
+      "name": "NVIDIA Telemetry Client",
+      "version": "19.4.23.0",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\NvTelemetry"
+    },
+    {
+      "name": "NVIDIA ShadowPlay 11.0.3.0",
+      "version": "11.0.3.0",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\ShadowPlay"
+    },
+    {
+      "name": "NVIDIA Virtual Audio 4.65.0.3",
+      "version": "4.65.0.3",
+      "vendor": "NVIDIA Corporation",
+      "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\VirtualAudio.Driver.{60EA6632-15BC-450A-A8D2-BE3BE6BA0B1E}"
+    },
+    {
+      "name": "AURA DRAM Component",
+      "version": "1.1.27",
+      "vendor": "ASUS",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Host FX Resolver - 6.0.16 (x64)",
+      "version": "48.67.58427",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "MongoDB Tools 100",
+      "version": "100.10.0",
+      "vendor": "MongoDB Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 8.0.11 (x64)",
+      "version": "64.44.23253",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft System CLR Types per SQL Server 2019",
+      "version": "15.0.2000.5",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "EA app",
+      "version": "13.200.0.5713",
+      "vendor": "Electronic Arts",
+      "install_path": ""
+    },
+    {
+      "name": "AURA lighting effect add-on x64",
+      "version": "0.0.44",
+      "vendor": "ASUSTek COMPUTER INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Update Health Tools",
+      "version": "5.72.0.0",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Runtime - 6.0.16 (x64)",
+      "version": "48.67.58427",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Application Verifier x64 External Package (DesktopEditions)",
+      "version": "10.1.22621.3233",
+      "vendor": "Microsoft",
+      "install_path": ""
+    },
+    {
+      "name": "vs_communityx64msi",
+      "version": "17.13.35716",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Core Host FX Resolver - 3.1.28 (x64)",
+      "version": "24.112.31513",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "SceneBuilder",
+      "version": "23.0.0",
+      "vendor": "Gluon",
+      "install_path": "C:\\Users\\veljk\\AppData\\Local\\SceneBuilder\\"
+    },
+    {
+      "name": "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030",
+      "version": "11.0.61030",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "ASUS Aura SDK",
+      "version": "3.04.46",
+      "vendor": "ASUSTek COMPUTER INC.",
+      "install_path": ""
+    },
+    {
+      "name": "Autodesk Genuine Service",
+      "version": "7.5.0.226",
+      "vendor": "Autodesk",
+      "install_path": "C:\\Program Files\\Autodesk\\Genuine Service\\"
+    },
+    {
+      "name": "Microsoft .NET Core Host - 3.1.8 (x64)",
+      "version": "24.96.29220",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "UE4 Prerequisites (x64)",
+      "version": "1.0.14.0",
+      "vendor": "Epic Games, Inc.",
+      "install_path": ""
+    },
+    {
+      "name": "Retopology Tools for 3ds Max 2025",
+      "version": "1.5.0.6",
+      "vendor": "Autodesk, Inc.",
+      "install_path": "C:\\Program Files\\Autodesk\\"
+    },
+    {
+      "name": "Adobe Substance 3D for 3ds Max 2025",
+      "version": "3.0.4",
+      "vendor": "Adobe",
+      "install_path": ""
+    },
+    {
+      "name": "vs_minshellinteropx64msi",
+      "version": "17.13.35710",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Documentation Manager",
+      "version": "23.120.0.3",
+      "vendor": "Intel Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "ENE RGB HAL",
+      "version": "1.1.53.0",
+      "vendor": "Ene Tech.",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34433",
+      "version": "14.42.34433",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Controllo integrit PC Windows",
+      "version": "3.7.2204.15001",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Python 3.13.2 Test Suite (64-bit)",
+      "version": "3.13.2150.0",
+      "vendor": "Python Software Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "Node.js",
+      "version": "22.14.0",
+      "vendor": "Node.js Foundation",
+      "install_path": ""
+    },
+    {
+      "name": "ASUS AIOFan HAL",
+      "version": "1.4.0.0",
+      "vendor": "ASUSTek COMPUTER INC.",
+      "install_path": ""
+    },
+    {
+      "name": "ARMOURY CRATE Lite Service",
+      "version": "5.9.14",
+      "vendor": "ASUS",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 3.1.8 (x64)",
+      "version": "24.96.29220",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "VS Script Debugging Common",
+      "version": "17.0.157.0",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    },
+    {
+      "name": "Microsoft .NET Host FX Resolver - 8.0.11 (x64)",
+      "version": "64.44.23191",
+      "vendor": "Microsoft Corporation",
+      "install_path": ""
+    }
+  ]
+}

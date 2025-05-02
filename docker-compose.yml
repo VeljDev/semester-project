@@ -1,0 +1,76 @@
+services:
+  mongo:
+    image: mongo:6.0
+    container_name: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    networks:
+      - audit-network
+
+  cve-updater:
+    build:
+      context: ./cve-updater
+      dockerfile: Dockerfile
+    depends_on:
+      - mongo
+    env_file: ./cve-updater/.env
+    networks:
+      - audit-network
+    restart: "on-failure"
+
+  cve-updater-cron:
+    build:
+      context: ./cve-updater
+      dockerfile: Dockerfile.updater
+    depends_on:
+      - cve-updater
+    env_file: ./cve-updater/.env
+    networks:
+      - audit-network
+    restart: always
+
+  cpe-updater:
+    build:
+      context: ./cve-updater
+      dockerfile: Dockerfile.cpe
+    depends_on:
+      - mongo
+    env_file: ./cve-updater/.env
+    networks:
+      - audit-network
+    restart: "no"
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    env_file:
+      - ./backend/.env
+    networks:
+      - audit-network
+    depends_on:
+      - cve-updater
+
+  frontend:
+    build: 
+      context: ./vulnerability-scanner
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"
+    env_file:
+      - ./vulnerability-scanner/.env
+    networks:
+      - audit-network
+    depends_on:
+      - backend
+
+volumes:
+  mongo-data:
+
+networks:
+  audit-network:
+    driver: bridge
