@@ -8,10 +8,6 @@ temp/
 /dist
 /.vitepress/dist
 
-# Local env files
-.env.local
-.env.*.local
-.env
 
 # Log files
 npm-debug.log*
